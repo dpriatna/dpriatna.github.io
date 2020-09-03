@@ -1,3 +1,5 @@
+#### Setting Up Laravel & LAMP STACK
+
 ### Install PHP
 
 sudo apt install software-properties-common
